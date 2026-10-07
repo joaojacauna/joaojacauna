@@ -1,5 +1,5 @@
 # Hello World! I'm João Victor
-and this is my knowledge and curiosities about development 
+that's my apresentation: 
 
 <details>
   <summary> More about me</summary>
@@ -25,10 +25,7 @@ and this is my knowledge and curiosities about development
 
 ## WhoAmI?
 
-I am a Systems and Analysis Development Student who's stil learning everything.
+I am a Systems and Analysis Development Student who's still learning everything. 
 
-
-IN PROGRESS... 🚧 
-
-#NeverStopLearning🚀
+#IllNeverStopLearning
 
