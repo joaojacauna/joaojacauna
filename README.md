@@ -29,7 +29,7 @@ and this is my knowledge and curiosities about development
 I am a Systems and Analysis Development Student who's stil learning everything.
 
 
-IN PROGRESS... 🚧
+IN PROGRESS... 🚧 
 
 #NeverStopLearning🚀
 
