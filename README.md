@@ -21,9 +21,8 @@ and this is my knowledge and curiosities about development
 </details>
 
 
-<div>
 [![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/jo%C3%A3o-victor-ferreira-jacauna-017b38211)
-</div>
+
 ## WhoAmI?
 
 I am a Systems and Analysis Development Student who's stil learning everything.
