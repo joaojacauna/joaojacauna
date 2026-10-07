@@ -26,5 +26,5 @@ that's my apresentation:
 
 ## WhoAmI?
 
-I am a Systems and Analysis Development Student who's still learning everything. 
+My name is João Victor, I am a Systems and Analysis Development Student who's still learning everything. I know that I have a lot to do, but i hope to get better everyday. :D 
 
