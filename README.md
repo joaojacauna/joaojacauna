@@ -1,6 +1,11 @@
 # Hello World! I'm João Victor
 that's my apresentation: 
 
+## WhoAmI?
+
+My name is João Victor, I am a Systems and Analysis Development Student who's still learning everything. I know that I have a lot to do, but i hope to get better everyday. :D 
+
+
 [![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/jo%C3%A3o-victor-ferreira-jacauna-017b38211)
 
 <details>
@@ -24,7 +29,4 @@ that's my apresentation:
 
 
 
-## WhoAmI?
-
-My name is João Victor, I am a Systems and Analysis Development Student who's still learning everything. I know that I have a lot to do, but i hope to get better everyday. :D 
 
